@@ -10,33 +10,28 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=&fontSize=0" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58a6ff,100:1a1b27&height=180&section=header&text=Prince%20L%20Kansagra&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Building%20Systems%20That%20Outlive%20Trends&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" alt="header"/>
 
 <br>
 
-<!-- Animated Introduction -->
-<a href="https://github.com/Pkansagra-hub">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Prince+L+Kansagra" alt="Name" />
-</a>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&weight=300&size=18&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=700&lines=AI+Engineer+%E2%80%A2+Denton%2C+Texas;Building+systems+that+outlive+trends;Memory-first.+Privacy-first.+Built+to+last." alt="Tagline" />
+<!-- Dynamic Tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Memory-first.+Privacy-first.+Built+to+last.;Designing+AI+systems+that+outlive+trends.;Kernel-inspired+architecture+for+real+humans.;No+cloud+dependency.+Device-first+always." alt="Typing SVG" />
 
 <br><br>
 
-<!-- Subtle Contact -->
+<!-- Contact -->
 <a href="https://www.linkedin.com/in/prince-kansagra/">
-  <img src="https://img.shields.io/badge/-%E2%80%8B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:princekansagra99@gmail.com">
-  <img src="https://img.shields.io/badge/-%E2%80%8B-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=mail&logoColor=fff" alt="Email"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Pkansagra-hub&style=for-the-badge&color=0d1117&labelColor=0d1117&label=" alt="" height="0" width="0"/>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Pkansagra-hub&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
@@ -45,20 +40,13 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<table>
-<tr>
-<td>
-
-```
-
-    "Play your role in life with such passion, that even after
-     the curtains come down, the applause doesn't stop."
-
-```
-
-</td>
-</tr>
-</table>
+<blockquote>
+<br>
+<p align="center">
+<em>"Play your role in life with such passion, that even after<br>the curtains come down, the applause doesn't stop."</em>
+</p>
+<br>
+</blockquote>
 </div>
 
 <br>
@@ -254,30 +242,26 @@
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Pkansagra-hub&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pkansagra-hub&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
 
 <br><br>
 
-<!-- Stats Grid -->
-<table>
-<tr>
-<td align="center" width="50%">
+<!-- Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Pkansagra-hub&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pkansagra-hub&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+<br><br>
 
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Pkansagra-hub&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=8B949E&dates=6E7681" alt="Streak" width="100%"/>
-
-</td>
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=Pkansagra-hub&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Streak"/>
 
 <br>
 
 <!-- WakaTime -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pkansagra99&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&range=last_7_days" alt="WakaTime" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pkansagra99&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="WakaTime"/>
+
+<br><br>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pkansagra-hub&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 <br><br>
 
