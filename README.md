@@ -36,7 +36,7 @@
 
 <br>
 
-> *"Play your role in life with such passion, that even after the curtains come down, the applause doesn't stop."*
+ *"Play your role in life with such passion, that even after the curtains come down, the applause doesn't stop."*
 
 <br>
 
