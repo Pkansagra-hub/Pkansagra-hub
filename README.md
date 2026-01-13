@@ -487,7 +487,11 @@ From civil engineering to failing UPSC multiple times to designing AI systems at
 
 ### 🌌 3D Contributions
 
-<img src="https://raw.githubusercontent.com/Pkansagra-hub/Pkansagra-hub/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+  <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+</picture>
 
 <br>
 
