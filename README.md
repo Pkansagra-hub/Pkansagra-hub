@@ -208,9 +208,11 @@ Everything runs device-first, end-to-end encrypted, with no cloud dependency by 
 ## Dev Metrics
 
 <!--START_SECTION:waka-->
+
 ```txt
-Setting up WakaTime...
+Loading WakaTime stats...
 ```
+
 <!--END_SECTION:waka-->
 
 <br>
