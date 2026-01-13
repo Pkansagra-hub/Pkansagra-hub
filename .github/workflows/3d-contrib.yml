@@ -1,0 +1,33 @@
+name: Generate 3D Contributions
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 6 * * 1" # weekly (Monday)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contributions
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER_NAME: Pkansagra-hub
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🧊 Update 3D contributions"
+          file_pattern: profile-3d-contrib/**

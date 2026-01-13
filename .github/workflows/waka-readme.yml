@@ -6,6 +6,13 @@ on:
     # Runs every 12 hours
     - cron: "0 */12 * * *"
 
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
