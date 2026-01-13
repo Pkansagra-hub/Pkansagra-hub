@@ -1,40 +1,38 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=110&section=header" width="100%" alt=""/>
 
 <br>
 
-# Prince Kansagra
+# Prince L Kansagra
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%40+Microsoft+%7C+AT%26T;6%2B+Years+in+ML%2C+GenAI+%26+Computer+Vision;Building+systems+that+outlive+trends" alt="Typing SVG" />
-
-<br>
-
-**Dallas-Fort Worth, Texas** &nbsp;•&nbsp; **AI @ Microsoft** &nbsp;•&nbsp; **AI @ AT&T**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Engineer+%40+Microsoft+%7C+AT%26T;6%2B+Years+in+ML%2C+GenAI+%26+Computer+Vision;Building+systems+that+outlive+trends" alt="" />
 
 <br>
 
-<!-- SOCIAL BADGES -->
+<span style="color:#C9D1D9">Dallas-Fort Worth, Texas</span> &nbsp;•&nbsp; <span style="color:#C9D1D9">AI @ Microsoft</span> &nbsp;•&nbsp; <span style="color:#C9D1D9">AI @ AT&T</span>
+
+<br>
+
+<!-- SOCIAL -->
 <a href="https://www.linkedin.com/in/prince-kansagra/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="26"/>
 </a>
 &nbsp;
 <a href="https://www.kaggle.com/princekansagra">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" height="26"/>
 </a>
 &nbsp;
 <a href="mailto:princekansagra99@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" height="26"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Pkansagra-hub&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Pkansagra-hub&style=flat&color=58a6ff&label=Views" alt="Profile views" height="26"/>
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="92%" alt=""/>
 
 <br>
 
@@ -44,7 +42,8 @@
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%" alt=""/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Dev" width="28"/> &nbsp;About Me
 
@@ -65,9 +64,11 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 <br>
 
+<br>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%" alt=""/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
@@ -89,7 +90,7 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%" alt=""/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
@@ -100,23 +101,23 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 <br>
 
 <!-- Languages -->
-**Languages**
+<h3 align="center" style="margin: 0; padding: 0;">Languages</h3>
 
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/></a>&nbsp;
 <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r&theme=dark" height="45" alt="R"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="35" alt="SQL"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/SAS-0066B3?style=for-the-badge&logo=sas&logoColor=white" height="35" alt="SAS"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="28" alt="SQL"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/SAS-0066B3?style=flat&logo=sas&logoColor=white" height="28" alt="SAS"/></a>&nbsp;
 <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="45" alt="Bash"/>
 
 <br>
 
 <!-- AI/ML Frameworks -->
-**AI & Machine Learning**
+<h3 align="center" style="margin: 0; padding: 0;">AI &amp; Machine Learning</h3>
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="45"/>&nbsp;&nbsp;
-<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge" height="35"/></a>&nbsp;
-<a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="35"/></a>&nbsp;
-<a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="35"/></a>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=111" height="28" alt="Hugging Face"/></a>&nbsp;
+<a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="28" alt="OpenAI"/></a>&nbsp;
+<a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white" height="28" alt="Anthropic"/></a>
 
 <br>
 
@@ -124,20 +125,20 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 <br>
 
-**LLM/SLM Expertise**
+<h3 align="center" style="margin: 0; padding: 0;">LLM / SLM</h3>
 
-<img src="https://img.shields.io/badge/Fine--tuning-58A6FF?style=flat-square" height="22"/>
-<img src="https://img.shields.io/badge/LoRA-58A6FF?style=flat-square" height="22"/>
-<img src="https://img.shields.io/badge/QLoRA-58A6FF?style=flat-square" height="22"/>
-<img src="https://img.shields.io/badge/PEFT-58A6FF?style=flat-square" height="22"/>
-<img src="https://img.shields.io/badge/RLHF-58A6FF?style=flat-square" height="22"/>
-<img src="https://img.shields.io/badge/RAG-58A6FF?style=flat-square" height="22"/>
-<img src="https://img.shields.io/badge/Agents-58A6FF?style=flat-square" height="22"/>
-<img src="https://img.shields.io/badge/Function_Calling-58A6FF?style=flat-square" height="22"/>
+<img src="https://img.shields.io/badge/Fine--tuning-58A6FF?style=flat" height="22" alt="Fine-tuning"/>
+<img src="https://img.shields.io/badge/LoRA-58A6FF?style=flat" height="22" alt="LoRA"/>
+<img src="https://img.shields.io/badge/QLoRA-58A6FF?style=flat" height="22" alt="QLoRA"/>
+<img src="https://img.shields.io/badge/PEFT-58A6FF?style=flat" height="22" alt="PEFT"/>
+<img src="https://img.shields.io/badge/RLHF-58A6FF?style=flat" height="22" alt="RLHF"/>
+<img src="https://img.shields.io/badge/RAG-58A6FF?style=flat" height="22" alt="RAG"/>
+<img src="https://img.shields.io/badge/Agents-58A6FF?style=flat" height="22" alt="Agents"/>
+<img src="https://img.shields.io/badge/Function%20Calling-58A6FF?style=flat" height="22" alt="Function calling"/>
 
 <br><br>
 
-**Cloud & Infrastructure**
+<h3 align="center" style="margin: 0; padding: 0;">Cloud &amp; Infrastructure</h3>
 
 <img src="https://skillicons.dev/icons?i=azure,aws,gcp&theme=dark" height="45"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" height="45"/>
@@ -148,12 +149,12 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 <br>
 
-**Big Data & Databases**
+<h3 align="center" style="margin: 0; padding: 0;">Big Data &amp; Databases</h3>
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" height="45"/>&nbsp;&nbsp;
-<a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="35"/></a>&nbsp;
-<a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="35"/></a>&nbsp;
-<a href="https://hadoop.apache.org/"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="35"/></a>
+<a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" height="28" alt="Apache Spark"/></a>&nbsp;
+<a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" height="28" alt="Kafka"/></a>&nbsp;
+<a href="https://hadoop.apache.org/"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=111" height="28" alt="Hadoop"/></a>
 
 <br>
 
@@ -161,11 +162,11 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 <br>
 
-**MLOps & Tools**
+<h3 align="center" style="margin: 0; padding: 0;">MLOps &amp; Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=vscode,github,githubactions&theme=dark" height="45"/>&nbsp;&nbsp;
-<a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="35"/></a>&nbsp;
-<a href="https://wandb.ai/"><img src="https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" height="35"/></a>
+<a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" height="28" alt="MLflow"/></a>&nbsp;
+<a href="https://wandb.ai/"><img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=111" height="28" alt="Weights & Biases"/></a>
 
 <br>
 
@@ -175,7 +176,7 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%" alt=""/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
@@ -203,7 +204,7 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%" alt=""/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
@@ -227,11 +228,11 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%" alt=""/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="28"/> &nbsp;2026 Goals
+## 🎯 2026 Goals
 
 <div align="center">
 
@@ -249,7 +250,7 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%" alt=""/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
@@ -271,7 +272,7 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%" alt=""/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
@@ -292,7 +293,7 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%" alt=""/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
@@ -302,7 +303,7 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pkansagra-hub&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pkansagra-hub&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
 <br><br>
 
@@ -310,7 +311,7 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 <br><br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pkansagra-hub&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pkansagra-hub&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 <br><br>
 
@@ -322,7 +323,7 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stopwatch.png" alt="Timer" width="22"/> &nbsp;WakaTime Stats
+### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
 ```txt
