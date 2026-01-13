@@ -1,37 +1,36 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════════════════╗
-  ║                                                                              ║
-  ║   P R I N C E   L   K A N S A G R A                                         ║
-  ║   ─────────────────────────────────                                         ║
-  ║   AI Systems Architect • Memory-First Design • Privacy-First Infrastructure ║
-  ║                                                                              ║
-  ╚══════════════════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58a6ff,100:1a1b27&height=180&section=header&text=Prince%20L%20Kansagra&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Building%20Systems%20That%20Outlive%20Trends&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" alt="header"/>
 
 <br>
 
-<!-- Dynamic Tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Memory-first.+Privacy-first.+Built+to+last.;Designing+AI+systems+that+outlive+trends.;Kernel-inspired+architecture+for+real+humans.;No+cloud+dependency.+Device-first+always." alt="Typing SVG" />
+# Prince L Kansagra
 
-<br><br>
+**AI Engineer** &nbsp;·&nbsp; Denton, Texas
 
-<!-- Contact -->
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=2000&color=A0A0A0&center=true&vCenter=true&width=600&lines=Designing+memory-centric%2C+privacy-first+AI+systems;Built+to+last+decades%2C+not+trends" alt="Tagline" />
+
+<br>
+
 <a href="https://www.linkedin.com/in/prince-kansagra/">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="24"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:princekansagra99@gmail.com">
-  <img src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=mail&logoColor=fff" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email" height="24"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Pkansagra-hub&style=flat&color=000000&labelColor=000000&label=" alt="" height="24"/>
 
 <br><br>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Pkansagra-hub&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
+---
+
+<br>
+
+> *"Play your role in life with such passion, that even after the curtains come down, the applause doesn't stop."*
+
+<br>
 
 </div>
 
@@ -39,117 +38,98 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
+## Currently Focused On
+
 <div align="center">
-<blockquote>
+
 <br>
-<p align="center">
-<em>"Play your role in life with such passion, that even after<br>the curtains come down, the applause doesn't stop."</em>
-</p>
+
+| | |
+|:--|:--|
+| **Kernel-Inspired AI Design** | Idempotency, Write-Ahead Logs, Receipts, Invariants |
+| **Memory Architectures** | Episodic, Semantic, Procedural, Prospective — beyond vector search |
+| **Agent Orchestration** | Multi-agent planning under strict latency & safety budgets |
+| **Long-Horizon Alignment** | AI systems for real humans, not engagement metrics |
+
 <br>
-</blockquote>
+
 </div>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> &nbsp;The System I'm Building
+---
 
-<br>
+## Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+<br>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,bash,js,ts&theme=dark" height="40"/>
+
+`Python` · `SQL` · `Bash` · `JavaScript` · `TypeScript`
 
 <br>
 
-### 🧠 &nbsp;FamilyOS
+**AI & Machine Learning**
 
-**A Dual-Kernel AI Operating System**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="40"/>
 
-*Built for families. Designed to last decades.*
+`PyTorch` · `TensorFlow` · `Transformers` · `LangChain` · `LlamaIndex` · `vLLM` · `Ollama`
 
-<br>
-
-</td>
-<td align="center" width="50%">
+`Fine-tuning` · `LoRA` · `QLoRA` · `PEFT` · `RLHF` · `RAG` · `Agents` · `Function Calling`
 
 <br>
 
-```
-┌─────────────────────────────────┐
-│          KERNEL  K1             │
-│   Intelligence Microkernel      │
-│   Planning • Agents • Reasoning │
-├─────────────────────────────────┤
-│          KERNEL  K0             │
-│      Memory Microkernel         │
-│   Durable • Event-driven • WAL  │
-└─────────────────────────────────┘
-```
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&theme=dark" height="40"/>
+
+`FastAPI` · `Flask` · `Django` · `Node.js` · `Async Python` · `WebSockets`
 
 <br>
 
-</td>
-</tr>
-</table>
+**Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git&theme=dark" height="40"/>
+
+`Docker` · `Kubernetes` · `AWS` · `GCP` · `Azure` · `Linux`
+
+<br>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite&theme=dark" height="40"/>
+
+`PostgreSQL` · `SQLite` · `Redis` · `MongoDB` · `Pinecone` · `Weaviate` · `ChromaDB`
+
+<br>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,github,githubactions&theme=dark" height="40"/>
+
+`VS Code` · `Jupyter` · `GitHub Actions` · `MLflow` · `Weights & Biases`
+
+<br>
 
 </div>
 
 <br>
 
-<div align="center">
-
-| Production Pipelines | Coverage |
-|:---------------------|:---------|
-| **P01 – P20** | Memory Formation → Consolidation → Retrieval → Learning → Action → Sync |
-
-<br>
-
-```
-╔════════════════════════════════════════════════════════════════════════════════╗
-║  PRINCIPLES                                                                    ║
-╠════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                ║
-║    ◆  Device-First          No cloud dependency by default                    ║
-║    ◆  End-to-End Encrypted  Privacy is non-negotiable                         ║
-║    ◆  ADR-Driven            Governance through architecture decisions         ║
-║    ◆  Audit-First           Every action leaves a trail                       ║
-║                                                                                ║
-╚════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> &nbsp;Current Focus
-
-<br>
+### Specializations
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                  │
-│   ▸ Kernel-inspired system design                                               │
-│     Idempotency • Write-Ahead Logs • Receipts • Invariants                      │
-│                                                                                  │
-│   ▸ Memory architectures beyond vector search                                   │
-│     Episodic • Semantic • Procedural • Prospective                              │
-│                                                                                  │
-│   ▸ Multi-agent orchestration                                                   │
-│     Strict latency budgets • Custom orchestration layers                        │
-│                                                                                  │
-│   ▸ Long-horizon AI alignment                                                   │
-│     For real humans and families — not engagement metrics                       │
-│                                                                                  │
-└──────────────────────────────────────────────────────────────────────────────────┘
-```
+| | | |
+|:--|:--|:--|
+| AI Systems Architecture | LLM/SLM Fine-tuning | RAG & Knowledge Systems |
+| Memory-First Design | Agent Orchestration | Multi-Modal AI |
+| Privacy & Governance | Edge AI & Local-First | Continual Learning |
 
 </div>
 
@@ -157,121 +137,31 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> &nbsp;Stack
+---
 
-<br>
-
-<div align="center">
-
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,bash,js,ts&theme=dark" height="45" alt="Languages"/>
-
-<br>
-
-**Languages:** `Python` `SQL` `Bash` `JavaScript` `TypeScript` `YAML`
-
-<br><br>
-
-<!-- AI/ML Frameworks -->
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="45" alt="AI/ML"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge" height="35" alt="HuggingFace"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="35" alt="LangChain"/>
-
-<br>
-
-**AI/ML:** `PyTorch` `TensorFlow` `Transformers` `LangChain` `LlamaIndex` `vLLM` `Ollama`
-
-<br>
-
-**LLM/SLM:** `Fine-tuning` `LoRA` `QLoRA` `PEFT` `RLHF` `RAG` `Agents` `Function Calling`
-
-<br><br>
-
-<!-- Backend & APIs -->
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&theme=dark" height="45" alt="Backend"/>
-
-<br>
-
-**Backend:** `FastAPI` `Flask` `Django` `Node.js` `Async Python` `SSE` `WebSockets`
-
-<br><br>
-
-<!-- Infrastructure -->
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git&theme=dark" height="45" alt="Infra"/>
-
-<br>
-
-**Infrastructure:** `Docker` `Kubernetes` `AWS` `GCP` `Azure` `Linux` `Git`
-
-<br><br>
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite&theme=dark" height="45" alt="Databases"/>
-
-<br>
-
-**Databases:** `PostgreSQL` `SQLite (WAL)` `Redis` `MongoDB` `Pinecone` `Weaviate` `ChromaDB`
-
-<br><br>
-
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=vscode,neovim,github,githubactions&theme=dark" height="45" alt="Tools"/>
-
-<br>
-
-**Tools:** `VS Code` `Jupyter` `WakaTime` `GitHub Actions` `MLflow` `Weights & Biases`
-
-</div>
-
-<br>
-
-### 🎯 Specializations
-
-```
-◈ AI Systems Architecture        ◈ LLM/SLM Fine-tuning & Deployment
-◈ Memory-First Design            ◈ RAG & Knowledge Systems
-◈ Agent Orchestration            ◈ Multi-Modal AI
-◈ Kernel-Inspired Infra          ◈ Edge AI & Local-First
-◈ Privacy & Governance           ◈ Continual Learning
-```
-
-</div>
-
-<br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> &nbsp;Metrics
-
-<br>
+## GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<a href="https://github.com/Pkansagra-hub">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pkansagra-hub&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pkansagra-hub&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
+<br>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pkansagra-hub&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=888888&text_color=aaaaaa&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
 <br><br>
 
-<!-- Streak Stats -->
-<a href="https://github.com/Pkansagra-hub">
-  <img src="https://streak-stats.demolab.com?user=Pkansagra-hub&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=Pkansagra-hub&hide_border=true&background=00000000&ring=888888&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=888888&dates=666666" alt="Streak"/>
 
 <br><br>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pkansagra-hub&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pkansagra-hub&bg_color=00000000&color=888888&line=aaaaaa&point=ffffff&area=true&area_color=333333&hide_border=true" alt="Activity" width="95%"/>
+
+<br>
 
 </div>
 
 <br>
 
-### ⏱️ WakaTime Stats
+### WakaTime
 
 <!--START_SECTION:waka-->
 ```txt
@@ -283,25 +173,19 @@ Loading WakaTime stats...
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="25" height="25" /> &nbsp;Philosophy
+---
 
-<br>
+## Philosophy
 
 <div align="center">
 
-```
+<br>
 
+*I don't build apps.*
 
-                     ╭───────────────────────────────────────────╮
-                     │                                           │
-                     │   I don't build apps.                     │
-                     │                                           │
-                     │   I build systems that outlive trends.    │
-                     │                                           │
-                     ╰───────────────────────────────────────────╯
+*I build systems that outlive trends.*
 
-
-```
+<br>
 
 </div>
 
@@ -310,20 +194,13 @@ Loading WakaTime stats...
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><b>&nbsp;🔍 &nbsp;The Backstory</b></summary>
+<summary><strong>The Backstory</strong></summary>
 
 <br>
 
 <div align="center">
 
-```
-
-  From civil engineering to failing UPSC multiple times
-  to designing AI kernels alone at night —
-
-  while most people are still arguing about prompts.
-
-```
+*From civil engineering to failing UPSC multiple times to designing AI kernels alone at night — while most people are still arguing about prompts.*
 
 </div>
 
@@ -336,7 +213,7 @@ Loading WakaTime stats...
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><b>&nbsp;🤝 &nbsp;Collaboration</b></summary>
+<summary><strong>Collaboration</strong></summary>
 
 <br>
 
@@ -344,16 +221,7 @@ Loading WakaTime stats...
 
 **I want to work with people building:**
 
-<br>
-
-| | |
-|:--|:--|
-| `◆` | Memory-centric AI systems *(not chatbot wrappers)* |
-| `◆` | Privacy-first, local-first architectures |
-| `◆` | Kernel-level AI infrastructure |
-| `◆` | Systems where durability, correctness, and governance matter |
-
-<br>
+Memory-centric AI systems · Privacy-first architectures · Kernel-level AI infrastructure
 
 *If that's you, let's talk.*
 
@@ -371,6 +239,12 @@ Loading WakaTime stats...
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+---
+
+<br>
+
+*Built with focus, not hype.*
+
+<br>
 
 </div>
