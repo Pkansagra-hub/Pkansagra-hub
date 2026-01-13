@@ -325,9 +325,22 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stopwatch.png" alt="Timer" width="22"/> &nbsp;WakaTime Stats
 
 <!--START_SECTION:waka-->
+
 ```txt
-Loading WakaTime stats...
+From: 06 January 2026 - To: 13 January 2026
+
+Total Time: 37 hrs 49 mins
+
+Markdown     16 hrs 32 mins  ███████████░░░░░░░░░░░░░░   43.73 %
+Python       12 hrs 41 mins  ████████▒░░░░░░░░░░░░░░░░   33.57 %
+Mermaid      5 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
+YAML         1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+HTML         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+JSON         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
+
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
