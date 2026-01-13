@@ -163,71 +163,79 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-**Languages**
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python,bash,js,ts&theme=dark" height="45" alt="Languages"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40" alt="Bash"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" alt="SQL"/>
+**Languages:** `Python` `SQL` `Bash` `JavaScript` `TypeScript` `YAML`
 
 <br><br>
 
-`Python` `SQL` `Bash` `Shell`
-
-</td>
-<td align="center">
-
-**Frameworks**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="40" alt="FastAPI"/>
+<!-- AI/ML Frameworks -->
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="45" alt="AI/ML"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="40" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge" height="35" alt="HuggingFace"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="35" alt="LangChain"/>
+
+<br>
+
+**AI/ML:** `PyTorch` `TensorFlow` `Transformers` `LangChain` `LlamaIndex` `vLLM` `Ollama`
+
+<br>
+
+**LLM/SLM:** `Fine-tuning` `LoRA` `QLoRA` `PEFT` `RLHF` `RAG` `Agents` `Function Calling`
 
 <br><br>
 
-`FastAPI` `Async Python` `Custom Orchestration`
-
-</td>
-<td align="center">
-
-**Infrastructure**
+<!-- Backend & APIs -->
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&theme=dark" height="45" alt="Backend"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark" height="40" alt="Infra"/>
+**Backend:** `FastAPI` `Flask` `Django` `Node.js` `Async Python` `SSE` `WebSockets`
 
 <br><br>
 
-`Git` `Docker` `Linux` `VS Code`
-
-</td>
-</tr>
-</table>
+<!-- Infrastructure -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git&theme=dark" height="45" alt="Infra"/>
 
 <br>
 
-<table>
-<tr>
-<td align="center">
+**Infrastructure:** `Docker` `Kubernetes` `AWS` `GCP` `Azure` `Linux` `Git`
 
-**Storage & Data**
+<br><br>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite&theme=dark" height="45" alt="Databases"/>
 
 <br>
 
-`SQLite (WAL)` `PostgreSQL` `Vector Stores` `Knowledge Graphs`
+**Databases:** `PostgreSQL` `SQLite (WAL)` `Redis` `MongoDB` `Pinecone` `Weaviate` `ChromaDB`
 
-</td>
-</tr>
-</table>
+<br><br>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=vscode,neovim,github,githubactions&theme=dark" height="45" alt="Tools"/>
+
+<br>
+
+**Tools:** `VS Code` `Jupyter` `WakaTime` `GitHub Actions` `MLflow` `Weights & Biases`
+
+</div>
+
+<br>
+
+### 🎯 Specializations
+
+```
+◈ AI Systems Architecture        ◈ LLM/SLM Fine-tuning & Deployment
+◈ Memory-First Design            ◈ RAG & Knowledge Systems
+◈ Agent Orchestration            ◈ Multi-Modal AI
+◈ Kernel-Inspired Infra          ◈ Edge AI & Local-First
+◈ Privacy & Governance           ◈ Continual Learning
+```
 
 </div>
 
@@ -241,45 +249,37 @@
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Pkansagra-hub&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+<!-- GitHub Stats -->
+<a href="https://github.com/Pkansagra-hub">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pkansagra-hub&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pkansagra-hub&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
 
 <br><br>
 
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Pkansagra-hub&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Pkansagra-hub&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Streak"/>
-
-<br>
-
-<!-- WakaTime -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pkansagra99&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="WakaTime"/>
-
-<br><br>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pkansagra-hub&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<!-- Streak Stats -->
+<a href="https://github.com/Pkansagra-hub">
+  <img src="https://streak-stats.demolab.com?user=Pkansagra-hub&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</a>
 
 <br><br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pkansagra-hub&bg_color=00000000&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%"/>
-
-<br><br>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pkansagra-hub/Pkansagra-hub/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pkansagra-hub/Pkansagra-hub/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Pkansagra-hub/Pkansagra-hub/output/github-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pkansagra-hub&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
-<br><br>
+<br>
+
+### ⏱️ WakaTime Stats
+
+<!--START_SECTION:waka-->
+```txt
+Loading WakaTime stats...
+```
+<!--END_SECTION:waka-->
+
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
