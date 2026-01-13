@@ -258,7 +258,7 @@ I don't chase trends. I outlast them.
 Looking to work with people building:
 
 - Memory-centric AI systems — not chatbot wrappers
-- Privacy-first, local-first architectures  
+- Privacy-first, local-first architectures
 - Kernel-level AI infrastructure
 - Systems where durability, correctness, and governance matter
 
