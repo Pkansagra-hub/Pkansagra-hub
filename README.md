@@ -361,18 +361,18 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Total Time: 44 hrs 19 mins
+Total Time: 42 hrs 49 mins
 
-Markdown     21 hrs 8 mins   ████████████░░░░░░░░░░░░░   47.69 %
-Python       15 hrs 40 mins  █████████░░░░░░░░░░░░░░░░   35.38 %
-Mermaid      2 hrs 59 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-YAML         1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-JSON         1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-HTML         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Markdown     21 hrs 40 mins  ████████████▓░░░░░░░░░░░░   50.60 %
+Python       14 hrs 37 mins  ████████▓░░░░░░░░░░░░░░░░   34.13 %
+Mermaid      2 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+JSON         1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+HTML         1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+YAML         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Text         42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
