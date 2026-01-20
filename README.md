@@ -361,18 +361,18 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2026 - To: 19 January 2026
+From: 13 January 2026 - To: 20 January 2026
 
-Total Time: 48 hrs 11 mins
+Total Time: 48 hrs 5 mins
 
-Markdown     21 hrs 46 mins  ███████████▒░░░░░░░░░░░░░   45.19 %
-Python       20 hrs 13 mins  ██████████▒░░░░░░░░░░░░░░   41.97 %
-Mermaid      2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-JSON         1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-YAML         1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Python       22 hrs 6 mins   ███████████▒░░░░░░░░░░░░░   45.94 %
+Markdown     20 hrs 7 mins   ██████████▒░░░░░░░░░░░░░░   41.85 %
+Mermaid      1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+JSON         1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+YAML         1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 Text         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 HTML         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
