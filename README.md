@@ -361,18 +361,18 @@ Data Scientist with **6+ years** of experience in **Machine Learning**, **Genera
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2026 - To: 03 February 2026
+From: 28 January 2026 - To: 04 February 2026
 
-Total Time: 46 hrs 57 mins
+Total Time: 52 hrs 13 mins
 
-Mermaid      16 hrs 20 mins  ████████▓░░░░░░░░░░░░░░░░   34.71 %
-Markdown     15 hrs 5 mins   ████████░░░░░░░░░░░░░░░░░   32.04 %
-Python       12 hrs 48 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
-JSON         1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-YAML         47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Text         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Markdown     19 hrs 9 mins   █████████░░░░░░░░░░░░░░░░   36.61 %
+Mermaid      17 hrs 56 mins  ████████▓░░░░░░░░░░░░░░░░   34.27 %
+Python       12 hrs 24 mins  ██████░░░░░░░░░░░░░░░░░░░   23.72 %
+JSON         1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+YAML         47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Text         39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
