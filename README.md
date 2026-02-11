@@ -169,18 +169,33 @@ I connect research → engineering → business value. I speak technical, busine
 <div align="center">
 
 ```mermaid
-graph LR
-    A[Technical Excellence] --> E[Production Systems]
-    B[Strategic Impact] --> E
-    C[Team Leadership] --> E
-    D[Long-term Vision] --> E
-    E --> F[AI That Actually Works]
-    
-    style A fill:#14F195,stroke:#0c4a6e,stroke-width:2px
-    style B fill:#14F195,stroke:#0c4a6e,stroke-width:2px
-    style C fill:#14F195,stroke:#0c4a6e,stroke-width:2px
-    style D fill:#14F195,stroke:#0c4a6e,stroke-width:2px
-    style F fill:#10b981,stroke:#064e3b,stroke-width:3px
+---
+config:
+  theme: dark
+  layout: dagre
+  look: classic
+---
+flowchart LR
+    A["Technical Excellence"] --> E["Production Systems"]
+    B["Strategic Impact"] --> E
+    C["Team Leadership"] --> E
+    D["Long-term Vision"] --> E
+    E --> F["AI That Actually Works"]
+
+     A:::Aqua
+     E:::Sky
+     B:::Sky
+     C:::Sky
+     D:::Sky
+     F:::Sky
+    classDef Aqua stroke-width:1px, stroke-dasharray:none, stroke:#46EDC8, fill:#DEFFF8, color:#378E7A
+    classDef Sky stroke-width:1px, stroke-dasharray:none, stroke:#374D7C, fill:#E2EBFF, color:#374D7C
+    style A fill:#FFD600,stroke:#0c4a6e,stroke-width:2px
+    style E fill:#FF6D00
+    style B fill:#FFD600,stroke:#0c4a6e,stroke-width:2px
+    style C fill:#FFD600,stroke:#0c4a6e,stroke-width:2px
+    style D fill:#FFD600,stroke:#0c4a6e,stroke-width:2px
+    style F fill:#E1BEE7,stroke:#064e3b,stroke-width:3px
 ```
 
 </div>
