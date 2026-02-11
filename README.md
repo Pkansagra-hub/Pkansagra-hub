@@ -63,169 +63,44 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Who I Am
 
-> **Building AI systems that don't just work — they last.**
+> **AI Engineer building production systems at Microsoft & AT&T**
 
-<div align="center">
+I came to AI through an unconventional path: civil engineering → multiple failures → data science → production AI. That journey taught me to focus on what actually works, not what sounds impressive.
 
-### 🎯 The Short Version
-
-</div>
-
-I'm not typical AI engineer. While others chase the latest model release, **I architect the foundations that outlast the hype.**
-
-My journey from **civil engineering** → **multiple failures** → **AI systems architect at Microsoft & AT&T** taught me something most in this field miss: **the foundation matters more than the facade.**
+**Currently:** Shipping AI at enterprise scale  
+**Background:** 6+ years production experience, MS in Business Analytics  
+**Focus:** LLM/GenAI, MLOps, Computer Vision
 
 ---
 
-### 🔥 What Sets Me Apart
+### 💼 What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🏗️ **Systems Thinker**
-Engineering background gives me an architecture-first mindset. I see the whole system, not just the ML layer. I design for durability, not just deployment.
+**Experience**
+- 6+ years in production AI
+- Microsoft & AT&T scale systems
+- Research to deployment expertise
 
-#### ⚡ **Production-Focused**  
-6+ years shipping to real users at enterprise scale. Microsoft & AT&T trust me with their AI systems. I know the gap between demo and production.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎓 **Research-Informed**
-MS + Graduate Certificate in ML. Deep understanding of fundamentals + bleeding edge. I translate papers into production code.
-
-#### 🌉 **Bridge Builder**
-I connect research → engineering → business value. I speak technical, business, and executive. I make AI accessible without dumbing it down.
-
-</td>
-</tr>
-</table>
-
----
-
-### 💎 My Unique Edge
-
-<div align="center">
-
-| 🎯 **Role** | 💼 **Impact** | 🔬 **Expertise** |
-|:------------|:--------------|:-----------------|
-| AI Systems Architect & Engineer | Production AI at Microsoft & AT&T scale | Turning research into battle-tested systems |
-
-</div>
-
-#### The Difference
-
-**Most engineers:** Chase the latest model drop  
-**Me:** Build memory-first architectures that survive model evolution
-
-#### The Journey That Made Me
-
-🎓 **Civil Engineering** → Systems thinking from day one  
-💪 **Multiple UPSC Failures** → Learned resilience the hard way  
-📊 **MS Business Analytics @ UT Dallas** → Deep technical mastery  
-🚀 **6+ Years in Production** → Shipping AI that actually works
-
-#### What Drives Everything I Build
-
-```
-✓ Models are ephemeral. Architecture is eternal.
-✓ Production > Proof-of-concept  
-✓ Governance > Algorithms
-✓ Real humans > Engagement metrics
-```
-
----
-
-### 🎯 Current Mission
-
-<table>
-<tr>
-<td width="50%">
-
-**🧠 Technical Deep Dives**
-- LLM/GenAI (not just API calls)
-- Computer Vision + NLP + RL
-- Full-stack AI systems
-- Production MLOps at scale
-
-</td>
-<td width="50%">
-
-**🚀 Research Focus**
-- Memory architectures beyond vector search
-- Kernel-inspired AI design
-- Multi-agent systems under constraints
-- AI alignment for real humans
-
-</td>
-</tr>
-</table>
-
----
-
-### 💪 The Value I Bring
-
-<div align="center">
-
-```mermaid
----
-config:
-  theme: dark
-  layout: dagre
-  look: classic
----
-flowchart LR
-    A["Technical Excellence"] --> E["Production Systems"]
-    B["Strategic Impact"] --> E
-    C["Team Leadership"] --> E
-    D["Long-term Vision"] --> E
-    E --> F["AI That Actually Works"]
-
-     A:::Aqua
-     E:::Sky
-     B:::Sky
-     C:::Sky
-     D:::Sky
-     F:::Sky
-    classDef Aqua stroke-width:1px, stroke-dasharray:none, stroke:#46EDC8, fill:#DEFFF8, color:#378E7A
-    classDef Sky stroke-width:1px, stroke-dasharray:none, stroke:#374D7C, fill:#E2EBFF, color:#374D7C
-    style A fill:#FFD600,stroke:#0c4a6e,stroke-width:2px
-    style E fill:#FF6D00
-    style B fill:#FFD600,stroke:#0c4a6e,stroke-width:2px
-    style C fill:#FFD600,stroke:#0c4a6e,stroke-width:2px
-    style D fill:#FFD600,stroke:#0c4a6e,stroke-width:2px
-    style F fill:#E1BEE7,stroke:#064e3b,stroke-width:3px
-```
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔧 Technical Excellence**
-- Deep LLM/GenAI expertise (beyond wrappers)
-- Production MLOps at enterprise scale
-- Full-stack AI: CV + NLP + RL
-
-**🎯 Strategic Impact**
-- Turn vague requirements into systems
-- Build for scale, governance, compliance
-- Ship ROI, not just demos
+**Technical**
+- LLM/GenAI engineering
+- Computer Vision & NLP
+- MLOps & infrastructure
 
 </td>
 <td width="50%" valign="top">
 
-**👥 Team Multiplier**
-- Mentor juniors into contributors
-- Design extensible systems
-- Write docs that actually help
+**Approach**
+- Make complex AI actually work
+- Focus on reliability & governance
+- Mentor teams effectively
 
-**🔮 Long-term Vision**
-- Memory-first AI architectures
-- Agent orchestration under constraints
-- AI alignment for real-world use
+**Current Work**
+- Memory architectures
+- Multi-agent systems
+- Production LLM applications
 
 </td>
 </tr>
@@ -646,187 +521,36 @@ HTML       5 mins          ░░░░░░░░░░░░░░░░░�
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Philosophy & Vision
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   "I don't build apps. I build systems that outlive trends."             ║
-║                                                                           ║
-║   While others chase models, I architect foundations.                    ║
-║   While others ship demos, I deploy to production.                       ║
-║   While others optimize for hype, I engineer for humans.                 ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-### 🎭 The Unconventional Journey
-
-</div>
-
-**Civil Engineering** → **Multiple UPSC Failures** → **AI Systems Architect at Microsoft & AT&T**
-
-This path wasn't linear. It was instructive.
-
-**Engineering taught me:** Systems thinking, structural integrity, foundations matter
-
-**Failures taught me:** Resilience, humility, iteration over perfection  
-
-**AI gave me:** The canvas to build systems that actually help people
-
-> *Most people in AI are arguing about prompts. I'm building infrastructure.*
-
-<div align="center">
-
-<br>
-
-### 💡 Core Principles
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/structural.png" width="70"/><br>
-<b>Architecture First</b><br>
-<sub>Models will change.<br>Your foundation won't.</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/code.png" width="70"/><br>
-<b>Production Over Proof</b><br>
-<sub>Ship systems that work,<br>not demos that impress.</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/user-group-man-woman.png" width="70"/><br>
-<b>Humans Over Metrics</b><br>
-<sub>Optimize for actual people,<br>not engagement scores.</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/time.png" width="70"/><br>
-<b>Durability Over Speed</b><br>
-<sub>Build to last,<br>not just to launch.</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🚀 What I'm Building For
-
-</div>
-
-**The next decade of AI won't be won by the best model.**  
-It'll be won by the best **memory, governance, and architecture.**
-
-**I'm working on:**
-
-🧠 **Memory systems** that learn and recall like humans do
-
-⚙️ **Kernel-level AI** with idempotency, write-ahead logs, invariants
-
-🤝 **Agent orchestration** that works under real-world constraints
-
-🎯 **Aligned AI** that serves humans, not metrics
-
-> **"In 10 years, no one will remember which model you used.**  
-> **They'll remember if your system actually worked."**
-
-<div align="center">
-
-</div>
-
-<br>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Build Something That Matters
-
-<div align="center">
-
-### 🤝 I Want to Work With People Who...
+### 🤝 Open to Collaboration On
 
 <table>
 <tr>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/brain.png" width="70"/><br>
-<b>Build Systems,<br>Not Wrappers</b><br>
-<sub>Memory-centric AI<br>beyond chatbot demos</sub>
+<b>Production AI</b><br>
+<sub>Real systems at scale</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/privacy.png" width="70"/><br>
-<b>Value Privacy<br>& Ownership</b><br>
-<sub>Local-first, privacy-first<br>architectures</sub>
+<b>Memory Systems</b><br>
+<sub>Beyond basic RAG</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/engineering.png" width="70"/><br>
-<b>Care About<br>Foundations</b><br>
-<sub>Kernel-level infrastructure<br>that lasts</sub>
+<b>MLOps Infrastructure</b><br>
+<sub>Governance & reliability</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/deployment.png" width="70"/><br>
-<b>Ship Production,<br>Not Demos</b><br>
-<sub>Durability, correctness,<br>governance matter</sub>
+<b>Agent Systems</b><br>
+<sub>Multi-agent orchestration</sub>
 </td>
 </tr>
 </table>
-
-<br>
-
-### 💼 What I Bring to Collaborations
-
-</div>
-
-#### 🎯 Technical Excellence
-
-I bring 6+ years of production AI experience at enterprise scale with deep LLM/GenAI expertise that goes far beyond API wrappers. I've mastered the full stack from research to engineering to deployment, and I build MLOps infrastructure that actually works in the real world.
-
-#### 🧭 Strategic Impact
-
-I excel at bridging technical complexity with business value. I turn vague AI requirements into concrete, working systems and design for scale, compliance, and governance from day one. Most importantly, I make AI accessible without oversimplifying the hard problems.
-
-#### 🤝 Collaborative Leadership
-
-I mentor teams into high performers, creating systems that entire teams can build on. I write documentation that genuinely helps people, not just checks boxes. When I build foundations, others can extend them with confidence.
-
-#### 🔍 What I'm Looking For
-
-**Projects:**
-
-🧠 Memory architectures beyond vector search
-
-🔐 Privacy-preserving AI systems
-
-⚙️ Infrastructure for long-term AI systems
-
-🎯 AI that helps real humans solve real problems
-
-**Values:**
-
-- Quality over speed
-- Architecture over algorithms
-- Long-term over short-term hype
-- Human impact over engagement metrics
-
-<div align="center">
-
-<br>
-
-### 🎯 Perfect Collaboration Looks Like...
-
-</div>
-
-**You have:** A hard problem that needs production AI, not just a demo  
-**I bring:** Systems thinking + deep technical expertise + execution ability  
-**We build:** Something that works in the real world and lasts beyond the next model release
-
-**If you're building where governance, memory, and architecture matter more than the latest model drop — let's talk.**
-
-<div align="center">
 
 <br>
 
