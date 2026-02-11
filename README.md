@@ -295,15 +295,33 @@ Engineering & Operations:
 <p align="center">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white" alt="Anthropic"/>
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
 </p>
 
-**Frameworks:** LangChain • LlamaIndex • Semantic Kernel • Transformers • vLLM • Ollama • AutoGen
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white" alt="LlamaIndex"/>
+<img src="https://img.shields.io/badge/Semantic_Kernel-0078D4?style=for-the-badge&logoColor=white" alt="Semantic Kernel"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
+<img src="https://img.shields.io/badge/vLLM-0066CC?style=for-the-badge&logoColor=white" alt="vLLM"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/AutoGen-10B981?style=for-the-badge&logoColor=white" alt="AutoGen"/>
+</p>
 
-**Techniques:** Fine-tuning • LoRA/QLoRA • PEFT • RLHF • RAG • Agents • Function Calling • Prompt Engineering
+**Techniques:**
+<p align="center">
+<img src="https://img.shields.io/badge/Fine--tuning-FF6B6B?style=flat-square" alt="Fine-tuning"/>
+<img src="https://img.shields.io/badge/LoRA%2FQLoRA-4ECDC4?style=flat-square" alt="LoRA/QLoRA"/>
+<img src="https://img.shields.io/badge/PEFT-95E1D3?style=flat-square" alt="PEFT"/>
+<img src="https://img.shields.io/badge/RLHF-F38181?style=flat-square" alt="RLHF"/>
+<img src="https://img.shields.io/badge/RAG-AA96DA?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/Agents-FCBAD3?style=flat-square" alt="Agents"/>
+<img src="https://img.shields.io/badge/Function_Calling-A8D8EA?style=flat-square" alt="Function Calling"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FFD93D?style=flat-square" alt="Prompt Engineering"/>
+</p>
 
 </details>
 
@@ -319,7 +337,15 @@ Engineering & Operations:
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
 
-**Services:** Azure Cognitive Services • Azure OpenAI • AWS SageMaker • Microsoft Fabric • Databricks • Vertex AI
+**Services:**
+<p align="center">
+<img src="https://img.shields.io/badge/Azure_Cognitive_Services-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Cognitive Services"/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="Azure OpenAI"/>
+<img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SageMaker"/>
+<img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
+</p>
 
 </details>
 
@@ -335,7 +361,15 @@ Engineering & Operations:
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
 </p>
 
-**Vector Stores:** Pinecone • Weaviate • ChromaDB • Qdrant • FAISS • Milvus
+**Vector Stores:**
+<p align="center">
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/Weaviate-00C853?style=flat-square&logoColor=white" alt="Weaviate"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/FAISS-0081CB?style=flat-square&logo=meta&logoColor=white" alt="FAISS"/>
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logoColor=white" alt="Milvus"/>
+</p>
 
 </details>
 
@@ -351,7 +385,16 @@ Engineering & Operations:
 <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
 </p>
 
-**Tools:** Jupyter • VS Code • Anaconda • Poetry • Terraform • Prometheus • Grafana
+**Tools:**
+<p align="center">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda"/>
+<img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white" alt="Poetry"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+</p>
 
 </details>
 
