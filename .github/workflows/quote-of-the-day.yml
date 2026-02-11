@@ -3,7 +3,7 @@ name: Quote of the Day
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 7 * * *" # daily
+    - cron: "17 7 * * *" # Daily at 7:17 AM UTC
 
 permissions:
   contents: write
@@ -15,22 +15,21 @@ concurrency:
 jobs:
   update-quote:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
+        
       - name: Update README quote
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
             const https = require('https');
-
+            
             const readmePath = 'README.md';
             const start = '<!--START_SECTION:quote-->';
             const end = '<!--END_SECTION:quote-->';
-
+            
             function fetchJson(url) {
               return new Promise((resolve, reject) => {
                 https
@@ -48,19 +47,21 @@ jobs:
                   .on('error', reject);
               });
             }
-
+            
             if (!fs.existsSync(readmePath)) {
               core.setFailed(`Missing ${readmePath}`);
               return;
             }
-
+            
             const readme = fs.readFileSync(readmePath, 'utf8');
+            
             if (!readme.includes(start) || !readme.includes(end)) {
               core.setFailed('Quote markers not found in README.');
               return;
             }
-
+            
             let quote = { content: 'Build quietly. Ship relentlessly.', author: 'Prince' };
+            
             try {
               const q = await fetchJson('https://api.quotable.io/random?tags=technology|wisdom|famous-quotes');
               if (q && q.content) {
@@ -69,20 +70,21 @@ jobs:
             } catch (e) {
               core.warning(`Quote fetch failed, using fallback. ${e.message}`);
             }
-
+            
             const safeContent = String(quote.content).replace(/\s+/g, ' ').trim();
             const safeAuthor = String(quote.author).replace(/\s+/g, ' ').trim();
-
-            const block = `${start}\n\n> *“${safeContent}”*\n\n— ${safeAuthor}\n\n${end}`;
+            
+            const block = `${start}\n\n> *"${safeContent}"*\n\n— ${safeAuthor}\n\n${end}`;
+            
             const next = readme.replace(new RegExp(`${start}[\\s\\S]*?${end}`, 'm'), block);
-
+            
             if (next === readme) {
               core.info('README quote is already up to date.');
               return;
             }
-
+            
             fs.writeFileSync(readmePath, next);
-
+            
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
