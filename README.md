@@ -67,57 +67,6 @@
 
 I'm not your typical AI engineer. My journey from **civil engineering** to **AI systems architecture** taught me something most in this field miss: **the foundation matters more than the facade.**
 
-<div align="center">
-
-```typescript
-const prince = {
-  // What I Do
-  role: "AI Systems Architect & Engineer",
-  impact: "Building production AI at scale for Microsoft & AT&T",
-  expertise: "Turning bleeding-edge research into battle-tested systems",
-  
-  // The Difference
-  approach: {
-    others: "Chase the latest model drop",
-    me: "Build memory-first architectures that survive model evolution"
-  },
-  
-  // The Journey
-  background: {
-    engineering: "BTech Civil Engineering - Systems thinking foundation",
-    resilience: "Multiple UPSC failures - Learned persistence",
-    mastery: "MS Business Analytics @ UT Dallas - Data science expertise",
-    current: "6+ years shipping production AI systems"
-  },
-  
-  // What Drives Me
-  philosophy: [
-    "Models are ephemeral. Architecture is eternal.",
-    "Production > Proof-of-concept",
-    "Governance > Algorithms", 
-    "Real humans > Engagement metrics"
-  ],
-  
-  // Core Strengths
-  strengths: {
-    technical: "LLM/GenAI, Computer Vision, MLOps, Production Systems",
-    unique: "I think in systems, not just models",
-    strategic: "Bridge research → production → business value"
-  },
-  
-  currentMission: () => {
-    return [
-      "🧠 Memory architectures that go beyond vector search",
-      "⚙️ Kernel-inspired AI design (idempotency, WAL, invariants)",
-      "🤝 Multi-agent systems under real-world constraints",
-      "🎯 AI alignment for actual humans, not metrics"
-    ];
-  }
-};
-```
-
-</div>
-
 ### 🎯 What Makes Me Different
 
 **Most AI engineers build apps. I build infrastructure.**
@@ -155,29 +104,60 @@ While the industry obsesses over the latest model release, I'm solving the probl
 </tr>
 </table>
 
+### 💎 My Core Strengths
+
+**🎯 Role:** AI Systems Architect & Engineer  
+**💼 Impact:** Building production AI at scale for Microsoft & AT&T  
+**🔬 Expertise:** Turning bleeding-edge research into battle-tested systems
+
+**The Difference:**
+- **Others:** Chase the latest model drop  
+- **Me:** Build memory-first architectures that survive model evolution
+
+**The Journey:**
+- **Engineering Foundation:** BTech Civil Engineering - Systems thinking from day one
+- **Resilience Training:** Multiple UPSC failures - Learned persistence the hard way
+- **Data Science Mastery:** MS Business Analytics @ UT Dallas - Deep technical expertise
+- **Production Experience:** 6+ years shipping AI systems that actually work
+
+**What Drives Me:**
+- Models are ephemeral. Architecture is eternal.
+- Production > Proof-of-concept
+- Governance > Algorithms
+- Real humans > Engagement metrics
+
+**Technical Excellence:**
+- **Deep Expertise:** LLM/GenAI, Computer Vision, MLOps, Production Systems
+- **Unique Edge:** I think in systems, not just models
+- **Strategic Value:** Bridge research → production → business value
+
+**Current Mission:**
+- 🧠 Memory architectures that go beyond vector search
+- ⚙️ Kernel-inspired AI design (idempotency, WAL, invariants)
+- 🤝 Multi-agent systems under real-world constraints
+- 🎯 AI alignment for actual humans, not metrics
+
 ### 💪 My Unique Value
 
-```yaml
-Technical Excellence:
-  - Deep expertise in LLM/GenAI, not just API calls
-  - Production MLOps at Microsoft & AT&T scale
-  - Computer Vision + NLP + RL - full-stack AI
+**Technical Excellence:**
+- Deep expertise in LLM/GenAI, not just API calls
+- Production MLOps at Microsoft & AT&T scale
+- Computer Vision + NLP + RL - full-stack AI
 
-Strategic Impact:
-  - Turn vague AI requirements into concrete systems
-  - Build for scalability, governance, and compliance
-  - Ship products that generate ROI, not just demos
+**Strategic Impact:**
+- Turn vague AI requirements into concrete systems
+- Build for scalability, governance, and compliance
+- Ship products that generate ROI, not just demos
 
-Team Multiplier:
-  - Mentor junior engineers into production contributors
-  - Design systems that entire teams can build on
-  - Create documentation that actually helps
+**Team Multiplier:**
+- Mentor junior engineers into production contributors
+- Design systems that entire teams can build on
+- Create documentation that actually helps
 
-Long-term Vision:
-  - Building memory-first AI architectures
-  - Advancing agent orchestration under constraints
-  - Researching AI alignment for real-world use
-```
+**Long-term Vision:**
+- Building memory-first AI architectures
+- Advancing agent orchestration under constraints
+- Researching AI alignment for real-world use
 
 ### 🌍 Languages & Global Perspective
 
@@ -644,17 +624,17 @@ I'm working on:
 <sub>Memory-centric AI<br>beyond chatbot demos</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/lock.png" width="70"/><br>
+<img src="https://img.icons8.com/fluency/96/privacy.png" width="70"/><br>
 <b>Value Privacy<br>& Ownership</b><br>
 <sub>Local-first, privacy-first<br>architectures</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/settings.png" width="70"/><br>
+<img src="https://img.icons8.com/fluency/96/engineering.png" width="70"/><br>
 <b>Care About<br>Foundations</b><br>
 <sub>Kernel-level infrastructure<br>that lasts</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/quality.png" width="70"/><br>
+<img src="https://img.icons8.com/fluency/96/deployment.png" width="70"/><br>
 <b>Ship Production,<br>Not Demos</b><br>
 <sub>Durability, correctness,<br>governance matter</sub>
 </td>
@@ -665,49 +645,31 @@ I'm working on:
 
 ### 💼 What I Bring to Collaborations
 
-```python
-class Collaboration:
-    def what_i_offer(self):
-        return {
-            "technical": [
-                "6+ years production AI experience at enterprise scale",
-                "Deep LLM/GenAI expertise (not just API wrappers)",
-                "Full-stack: Research → Engineering → Deployment",
-                "MLOps infrastructure that actually works"
-            ],
-            
-            "strategic": [
-                "Bridge technical complexity with business value",
-                "Turn vague requirements into concrete systems", 
-                "Design for scale, compliance, and governance",
-                "Make AI accessible without oversimplifying"
-            ],
-            
-            "collaborative": [
-                "Mentor teams into high performers",
-                "Document systems that help, not hinder",
-                "Build foundations others can extend",
-                "Communicate across technical levels"
-            ]
-        }
-    
-    def what_im_looking_for(self):
-        return {
-            "projects": [
-                "🧠 Memory architectures beyond vector search",
-                "🔐 Privacy-preserving AI systems",
-                "⚙️ Infrastructure for long-term AI systems",
-                "🎯 AI that helps real humans solve real problems"
-            ],
-            
-            "values": [
-                "Quality over speed",
-                "Architecture over algorithms", 
-                "Long-term over short-term hype",
-                "Human impact over engagement metrics"
-            ]
-        }
-```
+**🎯 Technical Excellence**
+
+I bring 6+ years of production AI experience at enterprise scale with deep LLM/GenAI expertise that goes far beyond API wrappers. I've mastered the full stack from research to engineering to deployment, and I build MLOps infrastructure that actually works in the real world.
+
+**🧭 Strategic Impact**
+
+I excel at bridging technical complexity with business value. I turn vague AI requirements into concrete, working systems and design for scale, compliance, and governance from day one. Most importantly, I make AI accessible without oversimplifying the hard problems.
+
+**🤝 Collaborative Leadership**
+
+I mentor teams into high performers, creating systems that entire teams can build on. I write documentation that genuinely helps people, not just checks boxes. When I build foundations, others can extend them with confidence.
+
+**🔍 What I'm Looking For**
+
+**Projects:**
+- 🧠 Memory architectures beyond vector search
+- 🔐 Privacy-preserving AI systems
+- ⚙️ Infrastructure for long-term AI systems
+- 🎯 AI that helps real humans solve real problems
+
+**Values:**
+- Quality over speed
+- Architecture over algorithms
+- Long-term over short-term hype
+- Human impact over engagement metrics
 
 <br>
 
