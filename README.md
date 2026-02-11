@@ -561,22 +561,22 @@ This path wasn't linear. It was instructive.
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/foundation.png" width="70"/><br>
+<img src="https://img.icons8.com/color/96/structural.png" width="70"/><br>
 <b>Architecture First</b><br>
 <sub>Models will change.<br>Your foundation won't.</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/production.png" width="70"/><br>
+<img src="https://img.icons8.com/color/96/code.png" width="70"/><br>
 <b>Production Over Proof</b><br>
 <sub>Ship systems that work,<br>not demos that impress.</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/people.png" width="70"/><br>
+<img src="https://img.icons8.com/color/96/user-group-man-woman.png" width="70"/><br>
 <b>Humans Over Metrics</b><br>
 <sub>Optimize for actual people,<br>not engagement scores.</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/diamond.png" width="70"/><br>
+<img src="https://img.icons8.com/color/96/time.png" width="70"/><br>
 <b>Durability Over Speed</b><br>
 <sub>Build to last,<br>not just to launch.</sub>
 </td>
