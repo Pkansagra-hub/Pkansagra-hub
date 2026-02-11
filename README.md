@@ -387,20 +387,22 @@ gantt
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
 ```txt
-From: 03 February 2026 - To: 10 February 2026
+From: 04 February 2026 - To: 11 February 2026
 
-Total Time: 61 hrs 13 mins
+Total Time: 61 hrs 11 mins
 
-Markdown   35 hrs 17 mins  ██████████████▒░░░░░░░░░░   57.63 %
-Mermaid    13 hrs 14 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
-Python     11 hrs 53 mins  █████░░░░░░░░░░░░░░░░░░░░   19.41 %
+Markdown   35 hrs 12 mins  ██████████████▒░░░░░░░░░░   57.54 %
+Mermaid    13 hrs 41 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
+Python     11 hrs 9 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
 Bash       16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-YAML       11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+YAML       11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Rust       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Text       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 JSON       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Text       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-HTML       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br>
