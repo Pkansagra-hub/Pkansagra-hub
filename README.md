@@ -71,7 +71,7 @@
 
 </div>
 
-I'm not your typical AI engineer. While others chase the latest model release, **I architect the foundations that outlast the hype.**
+I'm not typical AI engineer. While others chase the latest model release, **I architect the foundations that outlast the hype.**
 
 My journey from **civil engineering** → **multiple failures** → **AI systems architect at Microsoft & AT&T** taught me something most in this field miss: **the foundation matters more than the facade.**
 
