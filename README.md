@@ -65,7 +65,7 @@
 
 > **Building AI systems that don't just work — they last.**
 
-I'm not your typical AI engineer. My journey from **civil engineering** to **AI systems architecture** taught me something most in this field miss: **the foundation matters more than the facade.**
+I'm not typical AI engineer. My journey from **civil engineering** to **AI systems architecture** taught me something most in this field miss: **the foundation matters more than the facade.**
 
 ### 🎯 What Makes Me Different
 
