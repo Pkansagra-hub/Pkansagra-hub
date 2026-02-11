@@ -65,7 +65,7 @@
 
 > **Building AI systems that don't just work — they last.**
 
-I'm not typical AI engineer. My journey from **civil engineering** to **AI systems architecture** taught me something most in this field miss: **the foundation matters more than the facade.**
+I'm not your typical AI engineer. My journey from **civil engineering** to **AI systems architecture** taught me something most in this field miss: **the foundation matters more than the facade.**
 
 ### 🎯 What Makes Me Different
 
@@ -544,15 +544,21 @@ HTML       5 mins          ░░░░░░░░░░░░░░░░░�
 
 ### 🎭 The Unconventional Journey
 
+</div>
+
 **Civil Engineering** → **Multiple UPSC Failures** → **AI Systems Architect at Microsoft & AT&T**
 
 This path wasn't linear. It was instructive.
 
-- **Engineering taught me:** Systems thinking, structural integrity, foundations matter
-- **Failures taught me:** Resilience, humility, iteration over perfection  
-- **AI gave me:** The canvas to build systems that actually help people
+**Engineering taught me:** Systems thinking, structural integrity, foundations matter
 
-*Most people in AI are arguing about prompts. I'm building infrastructure.*
+**Failures taught me:** Resilience, humility, iteration over perfection  
+
+**AI gave me:** The canvas to build systems that actually help people
+
+> *Most people in AI are arguing about prompts. I'm building infrastructure.*
+
+<div align="center">
 
 <br>
 
@@ -587,19 +593,25 @@ This path wasn't linear. It was instructive.
 
 ### 🚀 What I'm Building For
 
+</div>
+
 **The next decade of AI won't be won by the best model.**  
 It'll be won by the best **memory, governance, and architecture.**
 
-I'm working on:
-- 🧠 **Memory systems** that learn and recall like humans do
-- ⚙️ **Kernel-level AI** with idempotency, write-ahead logs, invariants
-- 🤝 **Agent orchestration** that works under real-world constraints
-- 🎯 **Aligned AI** that serves humans, not metrics
+**I'm working on:**
 
-<br>
+🧠 **Memory systems** that learn and recall like humans do
+
+⚙️ **Kernel-level AI** with idempotency, write-ahead logs, invariants
+
+🤝 **Agent orchestration** that works under real-world constraints
+
+🎯 **Aligned AI** that serves humans, not metrics
 
 > **"In 10 years, no one will remember which model you used.**  
 > **They'll remember if your system actually worked."**
+
+<div align="center">
 
 </div>
 
