@@ -657,41 +657,54 @@ It'll be won by the best **memory, governance, and architecture.**
 
 ### 💼 What I Bring to Collaborations
 
-**🎯 Technical Excellence**
+</div>
+
+#### 🎯 Technical Excellence
 
 I bring 6+ years of production AI experience at enterprise scale with deep LLM/GenAI expertise that goes far beyond API wrappers. I've mastered the full stack from research to engineering to deployment, and I build MLOps infrastructure that actually works in the real world.
 
-**🧭 Strategic Impact**
+#### 🧭 Strategic Impact
 
 I excel at bridging technical complexity with business value. I turn vague AI requirements into concrete, working systems and design for scale, compliance, and governance from day one. Most importantly, I make AI accessible without oversimplifying the hard problems.
 
-**🤝 Collaborative Leadership**
+#### 🤝 Collaborative Leadership
 
 I mentor teams into high performers, creating systems that entire teams can build on. I write documentation that genuinely helps people, not just checks boxes. When I build foundations, others can extend them with confidence.
 
-**🔍 What I'm Looking For**
+#### 🔍 What I'm Looking For
 
 **Projects:**
-- 🧠 Memory architectures beyond vector search
-- 🔐 Privacy-preserving AI systems
-- ⚙️ Infrastructure for long-term AI systems
-- 🎯 AI that helps real humans solve real problems
+
+🧠 Memory architectures beyond vector search
+
+🔐 Privacy-preserving AI systems
+
+⚙️ Infrastructure for long-term AI systems
+
+🎯 AI that helps real humans solve real problems
 
 **Values:**
+
 - Quality over speed
 - Architecture over algorithms
 - Long-term over short-term hype
 - Human impact over engagement metrics
 
+<div align="center">
+
 <br>
 
 ### 🎯 Perfect Collaboration Looks Like...
+
+</div>
 
 **You have:** A hard problem that needs production AI, not just a demo  
 **I bring:** Systems thinking + deep technical expertise + execution ability  
 **We build:** Something that works in the real world and lasts beyond the next model release
 
 **If you're building where governance, memory, and architecture matter more than the latest model drop — let's talk.**
+
+<div align="center">
 
 <br>
 
