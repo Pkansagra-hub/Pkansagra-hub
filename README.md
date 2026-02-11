@@ -65,106 +65,170 @@
 
 > **Building AI systems that don't just work — they last.**
 
-I'm not your typical AI engineer. My journey from **civil engineering** to **AI systems architecture** taught me something most in this field miss: **the foundation matters more than the facade.**
+<div align="center">
 
-### 🎯 What Makes Me Different
+### 🎯 The Short Version
 
-**Most AI engineers build apps. I build infrastructure.**
+</div>
 
-While the industry obsesses over the latest model release, I'm solving the problems that matter: **How do we build AI systems that are reliable, governable, and actually serve people?**
+I'm not your typical AI engineer. While others chase the latest model release, **I architect the foundations that outlast the hype.**
+
+My journey from **civil engineering** → **multiple failures** → **AI systems architect at Microsoft & AT&T** taught me something most in this field miss: **the foundation matters more than the facade.**
+
+---
+
+### 🔥 What Sets Me Apart
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🏗️ Systems Thinker**
-- Engineering background = architecture-first mindset
-- I see the whole system, not just the ML layer
-- Design for durability, not just deployment
+#### 🏗️ **Systems Thinker**
+Engineering background gives me an architecture-first mindset. I see the whole system, not just the ML layer. I design for durability, not just deployment.
 
-**⚡ Production-Focused**
-- 6+ years shipping to real users at enterprise scale
-- Microsoft & AT&T trust me with their AI systems
-- I know the gap between demo and production
+#### ⚡ **Production-Focused**  
+6+ years shipping to real users at enterprise scale. Microsoft & AT&T trust me with their AI systems. I know the gap between demo and production.
 
 </td>
 <td width="50%" valign="top">
 
-**🎓 Research-Informed**
-- MS + Graduate Certificate in ML
-- Deep understanding of fundamentals + bleeding edge
-- I translate papers into production code
+#### 🎓 **Research-Informed**
+MS + Graduate Certificate in ML. Deep understanding of fundamentals + bleeding edge. I translate papers into production code.
 
-**🌉 Bridge Builder**
-- Connect research → engineering → business value
-- Speak technical, business, and executive
-- Make AI accessible without dumbing it down
+#### 🌉 **Bridge Builder**
+I connect research → engineering → business value. I speak technical, business, and executive. I make AI accessible without dumbing it down.
 
 </td>
 </tr>
 </table>
 
-### 💎 My Core Strengths
+---
 
-**🎯 Role:** AI Systems Architect & Engineer  
-**💼 Impact:** Building production AI at scale for Microsoft & AT&T  
-**🔬 Expertise:** Turning bleeding-edge research into battle-tested systems
+### 💎 My Unique Edge
 
-**The Difference:**
-- **Others:** Chase the latest model drop  
-- **Me:** Build memory-first architectures that survive model evolution
+<div align="center">
 
-**The Journey:**
-- **Engineering Foundation:** BTech Civil Engineering - Systems thinking from day one
-- **Resilience Training:** Multiple UPSC failures - Learned persistence the hard way
-- **Data Science Mastery:** MS Business Analytics @ UT Dallas - Deep technical expertise
-- **Production Experience:** 6+ years shipping AI systems that actually work
+| 🎯 **Role** | 💼 **Impact** | 🔬 **Expertise** |
+|:------------|:--------------|:-----------------|
+| AI Systems Architect & Engineer | Production AI at Microsoft & AT&T scale | Turning research into battle-tested systems |
 
-**What Drives Me:**
-- Models are ephemeral. Architecture is eternal.
-- Production > Proof-of-concept
-- Governance > Algorithms
-- Real humans > Engagement metrics
+</div>
 
-**Technical Excellence:**
-- **Deep Expertise:** LLM/GenAI, Computer Vision, MLOps, Production Systems
-- **Unique Edge:** I think in systems, not just models
-- **Strategic Value:** Bridge research → production → business value
+#### The Difference
 
-**Current Mission:**
-- 🧠 Memory architectures that go beyond vector search
-- ⚙️ Kernel-inspired AI design (idempotency, WAL, invariants)
-- 🤝 Multi-agent systems under real-world constraints
-- 🎯 AI alignment for actual humans, not metrics
+**Most engineers:** Chase the latest model drop  
+**Me:** Build memory-first architectures that survive model evolution
 
-### 💪 My Unique Value
+#### The Journey That Made Me
 
-**Technical Excellence:**
-- Deep expertise in LLM/GenAI, not just API calls
-- Production MLOps at Microsoft & AT&T scale
-- Computer Vision + NLP + RL - full-stack AI
+🎓 **Civil Engineering** → Systems thinking from day one  
+💪 **Multiple UPSC Failures** → Learned resilience the hard way  
+📊 **MS Business Analytics @ UT Dallas** → Deep technical mastery  
+🚀 **6+ Years in Production** → Shipping AI that actually works
 
-**Strategic Impact:**
-- Turn vague AI requirements into concrete systems
-- Build for scalability, governance, and compliance
-- Ship products that generate ROI, not just demos
+#### What Drives Everything I Build
 
-**Team Multiplier:**
-- Mentor junior engineers into production contributors
-- Design systems that entire teams can build on
-- Create documentation that actually helps
+```
+✓ Models are ephemeral. Architecture is eternal.
+✓ Production > Proof-of-concept  
+✓ Governance > Algorithms
+✓ Real humans > Engagement metrics
+```
 
-**Long-term Vision:**
-- Building memory-first AI architectures
-- Advancing agent orchestration under constraints
-- Researching AI alignment for real-world use
+---
+
+### 🎯 Current Mission
+
+<table>
+<tr>
+<td width="50%">
+
+**🧠 Technical Deep Dives**
+- LLM/GenAI (not just API calls)
+- Computer Vision + NLP + RL
+- Full-stack AI systems
+- Production MLOps at scale
+
+</td>
+<td width="50%">
+
+**🚀 Research Focus**
+- Memory architectures beyond vector search
+- Kernel-inspired AI design
+- Multi-agent systems under constraints
+- AI alignment for real humans
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💪 The Value I Bring
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Technical Excellence] --> E[Production Systems]
+    B[Strategic Impact] --> E
+    C[Team Leadership] --> E
+    D[Long-term Vision] --> E
+    E --> F[AI That Actually Works]
+    
+    style A fill:#14F195,stroke:#0c4a6e,stroke-width:2px
+    style B fill:#14F195,stroke:#0c4a6e,stroke-width:2px
+    style C fill:#14F195,stroke:#0c4a6e,stroke-width:2px
+    style D fill:#14F195,stroke:#0c4a6e,stroke-width:2px
+    style F fill:#10b981,stroke:#064e3b,stroke-width:3px
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔧 Technical Excellence**
+- Deep LLM/GenAI expertise (beyond wrappers)
+- Production MLOps at enterprise scale
+- Full-stack AI: CV + NLP + RL
+
+**🎯 Strategic Impact**
+- Turn vague requirements into systems
+- Build for scale, governance, compliance
+- Ship ROI, not just demos
+
+</td>
+<td width="50%" valign="top">
+
+**👥 Team Multiplier**
+- Mentor juniors into contributors
+- Design extensible systems
+- Write docs that actually help
+
+**🔮 Long-term Vision**
+- Memory-first AI architectures
+- Agent orchestration under constraints
+- AI alignment for real-world use
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 🌍 Languages & Global Perspective
 
-**Human Languages:** English • Hindi • Gujarati • Spanish (Elementary)  
-**Programming Languages:** Python • R • SQL • Bash
+<div align="center">
+
+**Human Languages:** 🇬🇧 English • 🇮🇳 Hindi • 🇮🇳 Gujarati • 🇪🇸 Spanish (Elementary)  
+
+**Programming Languages:** 🐍 Python • 📊 R • 🗄️ SQL • ⚡ Bash
 
 *Diverse background = diverse problem-solving approaches*
+
+</div>
 
 <br>
 
