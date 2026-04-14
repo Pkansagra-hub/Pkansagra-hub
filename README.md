@@ -488,18 +488,18 @@ gantt
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2026 - To: 13 April 2026
+From: 07 April 2026 - To: 14 April 2026
 
-Total Time: 26 hrs 5 mins
+Total Time: 20 hrs 43 mins
 
-Markdown     16 hrs 58 mins        ███████████████▓░░░░░░░░░   62.36 %
-Python       5 hrs 25 mins         █████░░░░░░░░░░░░░░░░░░░░   19.93 %
-Mermaid      2 hrs 31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-Other        1 hr 7 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Text         29 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-JSON         29 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-PowerShell   4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Bash         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Markdown     12 hrs 47 mins        ██████████████▓░░░░░░░░░░   58.70 %
+Python       5 hrs 9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+Mermaid      1 hr 40 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Other        1 hr 4 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Text         29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+JSON         29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Bash         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+PowerShell   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
