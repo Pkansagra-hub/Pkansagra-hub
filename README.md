@@ -633,16 +633,15 @@ gantt
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2026 - To: 07 June 2026
+From: 01 June 2026 - To: 08 June 2026
 
-Total Time: 21 hrs 22 mins
+Total Time: 16 hrs 35 mins
 
-Markdown   11 hrs 29 mins        █████████████▒░░░░░░░░░░░   53.71 %
-Python     7 hrs 12 mins         ████████▒░░░░░░░░░░░░░░░░   33.66 %
-JSON       1 hr 30 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-Mermaid    1 hr 7 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Other      2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Bash       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Markdown   8 hrs 36 mins         █████████████░░░░░░░░░░░░   51.80 %
+Python     6 hrs 19 mins         █████████▓░░░░░░░░░░░░░░░   38.04 %
+Mermaid    1 hr 7 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+JSON       31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Other      1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
